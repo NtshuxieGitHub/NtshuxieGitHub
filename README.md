@@ -1,11 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
 <p align="center">
-🚀 Software Engineer | Python, MATLAB, SQL | API & Web Development
+🚀 Full-Stack Developer | Web Application Development | Data-Driven Solutions
 </p>
 
 ---
 
-## 🏆 About Me  
+## 🚀 About Me  
+Passionate developer with experience in React and Next.js, currently working on building and deploying web and mobile applications from scratch and building skills in AI and data science. The goal is to become a high-value Full-Stack developer.
+
 - 🔹 Passionate about **automation, data analytics, and scalable software development**  
 - 🔹 Experience with **Flask APIs, forecasting models, and Excel automation**  
 - 🔹 Love working with **Python, SQL, and MATLAB** to solve real-world problems  
@@ -13,17 +15,22 @@
 
 ---
 
+## 💼 Professional Journey
+- 🏢 Currently working as a Consultant at Opti-Num Solutions
+- 🔄 Currently upskilling in data science and web application testing
+- 📈 Committed to working 48 hrs a week for continuous growth and learning
+- 🎯 Actively pursuing a transition to a full-stack development role in tech companies
+  
+---
+
 ## 🛠 Tech Stack
 
-```javascript
-const skills = {
-    scripting: ['JavaScript', 'Python', 'MATLAB', 'TypeScript'],
-    fullstack: ['Next.js'],
-    frontend: ['React', 'HTML5', 'CSS3'],
-    backend: ['Node.js', 'Express.js', 'MS SQL Server', 'Convex', 'Appwrite'],
-    tools: ['Git'],
-    currentlyLearning: ['Data Science with Python', 'Advanced JavaScript', 'Web App Testing']
-}
+- **Scripting**: JavaScript, Python, MATLAB, TypeScript
+- **Full-Stack**: Next.js
+- **Front-End**: React.js, HTML5, CSS3
+- **Back-End**: Node.js, Express.js, MS SQL Server, Convex, Appwrite
+- **Tools**: Git
+- **Currently Learning**: Data Science with Python, Advanced JavaScript, Web App Testing
 
 ---
 
