@@ -13,52 +13,56 @@
 
 ---
 
-## 🛠 Tech Stack  
-**Languages:** Python | MATLAB | SQL | JavaScript | HTML | CSS  
-**Frameworks & Tools:** Flask | REST APIs | Git | Docker | xlsxwriter | Pandas | OpenPyXL  
-**Databases:** MSSQL | PostgreSQL  
-**Other:** Data Analytics | Forecasting | Test-Driven Development  
+## 🛠 Tech Stack
 
+```javascript
+const skills = {
+    scripting: ['JavaScript', 'Python', 'MATLAB', 'TypeScript']
+    fullstack: ['Next.js']
+    frontend: ['React', 'HTML5', 'CSS3'],
+    backend: ['Node.js', 'Express.js', 'MS SQL Server', 'Convex', 'Appwrite'],
+    tools: ['Git'],
+    currentlyLearning: ['Data Science with Python', 'Advanced JavaScript', 'Web App Testing']
+}
 ---
 
-## 🔥 Featured Projects  
-### 📊 Forecasting Dashboard  
-🔗 **[View Repository](https://github.com/your-username/forecasting-dashboard)**  
-✔ Automated Excel forecasting model with formatting, summaries, and analysis.
+## 🔥 Recent Projects  
+### 📊 Full-Stack AI Assistant Web Application with Next.js
+🔗 **[View Repository]([https://github.com/your-username/forecasting-dashboard](https://github.com/NtshuxieGitHub/AI-Assistant-App))**  
+✔ SaaS Web Application with access to AI asstsitants for completing day-to-day tasks.
 
-### 🤖 AI Chatbot for WhatsApp  
-🔗 **[View Repository](https://github.com/your-username/chatbot-app)**  
-✔ Flask-based chatbot using Meta API & Ngrok for real-time interaction.
+### 🤖 Advanced Machine Learning Techniques with Python  
+🔗 **[View Repository]([https://github.com/your-username/chatbot-app](https://github.com/NtshuxieGitHub/Home-Price-Prediction-Model-in-Python))**  
+✔ Leveraging Machine Learning techniques to improve house price predictions.
 
-### 🛠 API Development with Flask  
-🔗 **[View Repository](https://github.com/your-username/flask-api-template)**  
-✔ Flask REST API template with authentication, database integration & JWT.
+### 🛠 Car Sales Dashboard with Power BI 
+🔗 **[View Repository]([https://github.com/your-username/flask-api-template](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard))**  
+✔ Car Sales KPI Tracking Dashboard designed using Power BI.
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NtshuxieGitHub&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NtshuxieGitHub&theme=tokyonight" width="400"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus  
-💡 **Exploring:** Docker, CI/CD pipelines, Kubernetes  
-💡 **Building:** Scalable API services & automation scripts  
-💡 **Learning:** Advanced SQL & performance optimization  
+-💡 Mastering HTML, CSS, JavaScript and TypeScript
+-💡 Deep diving into React, Next.js and React Native
+-💡 Exploring Appwrite and Convex as Backend Solutions
+-💡 Buidling KPI Tracking Power BI Dashboards
+-💡 Exploring app wnd web design technlogies like Figma
 
 ---
 
-## 🤝 Let's Connect  
+## 🤝 Let's Connect!  
 <p align="center">
-<a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/ntshuxeko-mathebula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="mailto:ntshuxekom@ncmatpro.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </p>
 
 ---
-
-## 🎉 Footer  
-⭐ If you like my work, consider giving my repositories a ⭐!  
-🚀 Open to feedback & collaboration – Feel free to reach out!  
+<p align="center">"⭐Impacting the future, one line of code at a time⭐."</p>
