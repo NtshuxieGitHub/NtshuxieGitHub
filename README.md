@@ -17,13 +17,14 @@
 
 ```javascript
 const skills = {
-    scripting: ['JavaScript', 'Python', 'MATLAB', 'TypeScript']
-    fullstack: ['Next.js']
+    scripting: ['JavaScript', 'Python', 'MATLAB', 'TypeScript'],
+    fullstack: ['Next.js'],
     frontend: ['React', 'HTML5', 'CSS3'],
     backend: ['Node.js', 'Express.js', 'MS SQL Server', 'Convex', 'Appwrite'],
     tools: ['Git'],
     currentlyLearning: ['Data Science with Python', 'Advanced JavaScript', 'Web App Testing']
 }
+
 ---
 
 ## 🔥 Recent Projects  
