@@ -30,22 +30,21 @@ Passionate developer with experience in React and Next.js, currently working on 
 ---
 
 ## 🔥 Recent Projects 
-1. **Full-Stack AI Assistant Web Application with Next.js** 🤖
-   - SaaS Web Application with AI Integration
-   - **Tech Stack**: React, JavaScript, Next.js, Convex, AI Tools
-   - 🔗**[Repo Link](https://github.com/your-username/forecasting-dashboard](https://github.com/NtshuxieGitHub/AI-Assistant-App)**
-     
-3. **Advanced Machine Learning Techniques with Python** 🛠
-   - ML Model
-   - **Tech Stack**: Python, Python Libraries, jupyter Notebook
-   - 🔗**[Repo Link](https://github.com/your-username/chatbot-app](https://github.com/NtshuxieGitHub/Home-Price-Prediction-Model-in-Python)**
-     
-5. **Car Sales Dashboard with Power BI** 📊
-   - Power BI Dashboard
-   - **Tech Stack**: Power BI, Power Query, DAX, MS Excel
-   - *📊 Full-Stack AI Assistant Web Application with Next.js**
-   - 🔗 **[https://github.com/NtshuxieGitHub/AI-Assistant-App](https://github.com/your-username/flask-api-template](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)**  
-   - 🔗**[Repo Link](https://github.com/your-username/flask-api-template](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)**
+
+1. **Full-Stack AI Assistant Web Application with Next.js** 🤖  
+   - SaaS Web Application with AI Integration  
+   - **Tech Stack**: React, JavaScript, Next.js, Convex, AI Tools  
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/AI-Assistant-App)  
+
+2. **Advanced Machine Learning Techniques with Python** 🛠  
+   - ML Model  
+   - **Tech Stack**: Python, Python Libraries, Jupyter Notebook  
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/Home-Price-Prediction-Model-in-Python)  
+
+3. **Car Sales Dashboard with Power BI** 📊  
+   - Power BI Dashboard  
+   - **Tech Stack**: Power BI, Power Query, DAX, MS Excel  
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)  
 
 ---
 
