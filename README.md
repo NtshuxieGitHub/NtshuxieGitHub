@@ -1,4 +1,4 @@
-<h1 align="center" text="blue">Hi there👋, I'm Ntshuxeko!</h1>
+<h1 align="center">Hi there👋, I'm Ntshuxeko!</h1>
 <p align="center">
 🚀 Full-Stack Developer | Web Application Development | Data-Driven Solutions
 </p>
@@ -43,6 +43,8 @@ Passionate developer with experience in React and Next.js, currently working on 
 5. **Car Sales Dashboard with Power BI** 📊
    - Power BI Dashboard
    - **Tech Stack**: Power BI, Power Query, DAX, MS Excel
+   - *📊 Full-Stack AI Assistant Web Application with Next.js**
+   - 🔗 **[https://github.com/NtshuxieGitHub/AI-Assistant-App](https://github.com/your-username/flask-api-template](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)**  
    - 🔗**[Repo Link](https://github.com/your-username/flask-api-template](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)**
 
 ---
