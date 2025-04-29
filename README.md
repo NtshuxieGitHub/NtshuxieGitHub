@@ -1,12 +1,16 @@
 <h1 align="center">Hi there👋, I'm Ntshuxeko!</h1>
 <p align="center">
-🚀 Full-Stack Developer | Web Application Development | Data-Driven Solutions
+🚀 Software Engineering | Full Stack Web Application Development Enthusiast | Data Science Enthusiast
 </p>
 
 ---
 
 ## 🚀 About Me  
-Passionate developer with experience in React and Next.js, currently working on building and deploying web and mobile applications from scratch and building skills in AI and data science. The goal is to become a high-value Full-Stack developer. 
+**Passionate developer with experience in Software Engineering, Software Consulting, Business Intelligence, and Application Development.** I'm especially drawn to Web Development and Data Science, and I’m currently focused on building both data science models and full-stack web applications.
+
+My goal is to become a full-stack developer focused on building web applications that incorporate data science solutions. I’m particularly interested in developing interactive apps where users can input data, trigger predictive models in the backend, and receive results through a clean, intuitive UI.
+
+With a foundation in Python and MATLAB, I’m strengthening my Python skills for data science. At the same time, I’m sharpening my front-end skills in HTML, CSS, and JavaScript, and upskilling in frameworks like React and Next.js to eventually bridge the gap between web and data.
 
 ---
 
@@ -59,9 +63,9 @@ Passionate developer with experience in React and Next.js, currently working on 
 ## 🎯 Current Focus  
 - 💡Mastering HTML, CSS, JavaScript and TypeScript
 - 💡Deep diving into React, Next.js and React Native
-- 💡Exploring Appwrite and Convex as Backend Solutions
+- 💡Deep diving into Python for data-driven solutions, scikit-learn, pandas and numpy libraries, web scraping libraries, etc.
+- 💡Exploring Appwrite, Firebase, and Convex as Backend-as-a-Service (BaaS) platforms for modern web applications.
 - 💡Buidling KPI Tracking Power BI Dashboards
-- 💡Exploring app wnd web design technlogies like Figma
 
 ---
 
