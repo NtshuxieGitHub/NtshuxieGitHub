@@ -35,17 +35,22 @@ With a foundation in Python and MATLAB, I’m strengthening my Python skills for
 
 ## 🔥 Recent Projects 
 
-1. **Full-Stack AI Assistant Web Application with Next.js** 🤖  
+1. **Customer Churn Modelling and Predictive System with Python** 🤖  
+   - ML Model
+   - **Tech Stack**: Pythin, Python Libraries, Jupyter notebook  
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/customer-churn-prediction-system)  
+
+2. **Full-Stack AI Assistant Web Application with Next.js** 🤖  
    - SaaS Web Application with AI Integration  
    - **Tech Stack**: React, JavaScript, Next.js, Convex, AI Tools  
    - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/AI-Assistant-App)  
 
-2. **Advanced Machine Learning Techniques with Python** 🛠  
+3. **Advanced Machine Learning Techniques with Python** 🛠  
    - ML Model  
    - **Tech Stack**: Python, Python Libraries, Jupyter Notebook  
    - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/Home-Price-Prediction-Model-in-Python)  
 
-3. **Car Sales Dashboard with Power BI** 📊  
+4. **Car Sales Dashboard with Power BI** 📊  
    - Power BI Dashboard  
    - **Tech Stack**: Power BI, Power Query, DAX, MS Excel  
    - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)  
