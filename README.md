@@ -1,59 +1,56 @@
-<h1 align="center">Hi there👋, I'm Ntshuxeko!</h1>
+<h1 align="center">Hi there👋, I'm Ntshuxeko Confidence!</h1>
 <p align="center">
-🚀 Software Engineering | Full Stack Web Application Development Enthusiast | Data Science Enthusiast
+🚀 Software Engineer | Full Stack Developer | Full Stack Engineer
 </p>
 
 ---
 
 ## 🚀 About Me  
-**Passionate developer with experience in Software Engineering, Software Consulting, Business Intelligence, and Application Development.** I'm especially drawn to Web Development and Data Science, and I’m currently focused on building both data science models and full-stack web applications.
+I’m a Software Engineer with over 2 years of experience in software engineering and software consulting, specializing in application development and creation of data-driven solutions. I bring a strong foundation in both backend and frontend technologies, with a focus on building scalable, data-driven applications.
 
-My goal is to become a full-stack developer focused on building web applications that incorporate data science solutions. I’m particularly interested in developing interactive apps where users can input data, trigger predictive models in the backend, and receive results through a clean, intuitive UI.
+My backend experience includes working with MATLAB, MS SQL Server, MySQL, MongoDB, Python (Flask), Node.js, and Express.js, with a solid track record in API development and server-side logic. On the frontend, I’ve developed responsive interfaces using HTML, CSS, JavaScript, MATLAB GUI frameworks, and the React.js library.
 
-With a foundation in Python and MATLAB, I’m strengthening my Python skills for data science. At the same time, I’m sharpening my front-end skills in HTML, CSS, and JavaScript, and upskilling in frameworks like React and Next.js to eventually bridge the gap between web and data.
+I'm currently enhancing my expertise in full stack MERN application development and cloud solutions, with a passion for building modern web applications that integrate seamlessly with intelligent data pipelines. I’m actively seeking opportunities as a Junior Full Stack Developer or Intermediate Software Engineer, where I can contribute to impactful projects and continue to grow as a full stack professional.
 
 ---
 
 ## 💼 Professional Journey
 - 🏢 Currently working as a Consultant at Opti-Num Solutions
-- 🔄 Currently upskilling in data science and web application testing
-- 📈 Committed to working 48 hrs a week for continuous growth and learning
-- 🎯 Actively pursuing a transition to a full-stack development role in tech companies
+- 🔄 Currently upskilling full stack MERN application development
+- 📈 Interested in cloud solutions for large scale 
+- 🎯 Actively pursuing a transition to a full-stack development role
   
 ---
 
 ## 🛠 Tech Stack
 
-- **Scripting**: JavaScript, Python, MATLAB, TypeScript
+- **Scripting**: MATLAB, Python, JavaScript
+- **Markup & Styling**: HTML, CSS
 - **Full-Stack**: Next.js
-- **Front-End**: React.js, HTML5, CSS3
-- **Back-End**: Node.js, Express.js, MS SQL Server, Convex, Appwrite
+- **Front-End**: React.js
+- **Back-End**: Node.js, Express.js
+- **Database**: MS SQL Server, MongoDB, MySQL
 - **Tools**: Git
-- **Currently Learning**: Data Science with Python, Advanced JavaScript, Web App Testing
+- **Currently Upskilling In**: Full stack MERN app development, full stack app dev with Next.js
 
 ---
 
-## 🔥 Recent Projects 
+## 🔥 Recent Projects  
 
-1. **Customer Churn Modelling and Predictive System with Python** 🤖  
-   - ML Model
-   - **Tech Stack**: Pythin, Python Libraries, Jupyter notebook  
-   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/customer-churn-prediction-system)  
+1. **TaskFlow - Full Stack Task Management Application** 🤖  (in progress)
+   - A fully responsive task management website that is currently being transformed into a full stack MERN application.   
+   - **Tech Stack**: HTML, CSS
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/taskflow-fullstack-task-manager-app)  
 
-2. **Full-Stack AI Assistant Web Application with Next.js** 🤖  
-   - SaaS Web Application with AI Integration  
-   - **Tech Stack**: React, JavaScript, Next.js, Convex, AI Tools  
-   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/AI-Assistant-App)  
+3. **Penna - Full Stack Journaling Application** 🛠 (in progress)  
+   - A fully responsive personal journaling website that is currently being transformed into a full stack MERN application. 
+   - **Tech Stack**: HTML, CSS  
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/penna-journalling-fullstack-app)
 
-3. **Advanced Machine Learning Techniques with Python** 🛠  
-   - ML Model  
-   - **Tech Stack**: Python, Python Libraries, Jupyter Notebook  
-   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/Home-Price-Prediction-Model-in-Python)  
-
-4. **Car Sales Dashboard with Power BI** 📊  
-   - Power BI Dashboard  
-   - **Tech Stack**: Power BI, Power Query, DAX, MS Excel  
-   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/Car-Sales-Dashboard)  
+3. **Interprep - AI Powered Interview Prep Application** 🛠  
+   - A full stack practice interview platform where users can leverage AI to prepare for interviews.  
+   - **Tech Stack**: Next.js, TypeScript, Vapi, GoogleAI, Firebase  
+   - 🔗 [**Repo Link**](https://github.com/NtshuxieGitHub/InterPrep) 
 
 ---
 
@@ -66,19 +63,16 @@ With a foundation in Python and MATLAB, I’m strengthening my Python skills for
 ---
 
 ## 🎯 Current Focus  
-- 💡Mastering HTML, CSS, JavaScript and TypeScript
-- 💡Deep diving into React, Next.js and React Native
-- 💡Deep diving into Python for data-driven solutions, scikit-learn, pandas and numpy libraries, web scraping libraries, etc.
-- 💡Exploring Appwrite, Firebase, and Convex as Backend-as-a-Service (BaaS) platforms for modern web applications.
-- 💡Buidling KPI Tracking Power BI Dashboards
+- 💡Mastering full stack app development
+- 💡Mastering React.js and Next.js
 
 ---
 
 ## 🤝 Let's Connect!  
 <p align="center">
 <a href="https://www.linkedin.com/in/ntshuxeko-mathebula/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-<a href="mailto:ntshuxekom@ncmatpro.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="mailto:ntshuxekom98@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 </p>
 
 ---
-<p align="center">"⭐Impacting the future, one line of code at a time⭐."</p>
+<p align="center">"---END OF MESSAGE"</p>
